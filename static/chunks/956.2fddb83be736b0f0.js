@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[956],{6956:function(s,e,i){i.r(e);var d=i(5893);let l=()=>(0,d.jsx)("div",{id:"ec-overlay",children:(0,d.jsxs)("div",{className:"ec-ellipsis",children:[(0,d.jsx)("div",{}),(0,d.jsx)("div",{}),(0,d.jsx)("div",{}),(0,d.jsx)("div",{})]})});e.default=l}}]);
