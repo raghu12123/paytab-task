@@ -53,7 +53,7 @@ export default function MainNavbar(){
       <Form onSubmit={e => { e.preventDefault(); }}>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Mobile Number</Form.Label>
-        <Form.Control type="email" placeholder="name@example.com" value={mobile} onChange={event => handleMobile(event.target.value)}/>
+        <Form.Control type="number" placeholder="Enter mobile number" value={mobile} onChange={event => handleMobile(event.target.value)}/>
       </Form.Group>
       <Button variant="outline-primary" onClick={() => handleSubmit()}>Login</Button>
     </Form>

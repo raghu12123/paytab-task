@@ -36,10 +36,7 @@ export function VerticalChart(props) {
       legend: {
         position: 'top',
       },
-      title: {
-        display: true,
-        text: 'Chart.js Bar Chart',
-      },
+     
     },
   };
   
@@ -49,12 +46,12 @@ export function VerticalChart(props) {
     labels,
     datasets: [
       {
-        label: 'Dataset 1',
+        label: 'Success',
         data: [may,june,july],
         backgroundColor: 'rgba(255, 99, 132, 0.5)',
       },
       {
-        label: 'Dataset 2',
+        label: 'Fail',
         data: [mayFail,juneFail,julyFail],
         backgroundColor: 'rgba(53, 162, 235, 0.5)',
       },
