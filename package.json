@@ -1,6 +1,5 @@
 {
   "homepage": "http://raghu12123.github.io/paytab-task/",
- 
   "name": "paytab-task",
   "version": "0.1.0",
   "private": true,
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
