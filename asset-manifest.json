@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/paytab-task/static/css/main.0f688617.css",
-    "main.js": "/paytab-task/static/js/main.87e9374b.js",
+    "main.js": "/paytab-task/static/js/main.451ca8df.js",
     "static/js/787.6cf12464.chunk.js": "/paytab-task/static/js/787.6cf12464.chunk.js",
     "index.html": "/paytab-task/index.html",
     "main.0f688617.css.map": "/paytab-task/static/css/main.0f688617.css.map",
-    "main.87e9374b.js.map": "/paytab-task/static/js/main.87e9374b.js.map",
+    "main.451ca8df.js.map": "/paytab-task/static/js/main.451ca8df.js.map",
     "787.6cf12464.chunk.js.map": "/paytab-task/static/js/787.6cf12464.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f688617.css",
-    "static/js/main.87e9374b.js"
+    "static/js/main.451ca8df.js"
   ]
 }
