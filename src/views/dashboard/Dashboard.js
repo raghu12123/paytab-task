@@ -464,10 +464,10 @@ useEffect(()=>{
           <CCardBody>
             <CChartPie
               data={{
-                labels: ['Succesful Txn', 'Failed Txn'],
+                labels: ['Failed Txn','Succesful Txn'],
                 datasets: [
                   {
-                    data: [pieFailure, pieSuccess],
+                    data: [pieFailure,pieSuccess],
                     backgroundColor: ['#FF6384', '#36A2EB'],
                     hoverBackgroundColor: ['#FF6384', '#36A2EB'],
                   },
