@@ -1,0 +1,29 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import reportWebVitals from './reportWebVitals';
+import { Provider } from 'react-redux';
+import {store} from './redux/store'
+import App from './App';
+import { ToastContainer } from 'react-toastify'; 
+import { Slide } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './index.css';
+import '@coreui/coreui/dist/css/coreui.min.css'
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <Provider store={store}>
+    <ToastContainer limit={3}  bodyClassName={() => "text-white-bold font-weight-normal"}
+  transition={Slide} autoClose={3000} position="bottom-right"/>
+    <App />
+    </Provider>
+  </React.StrictMode>
+);
+
+// If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+reportWebVitals();
