@@ -389,7 +389,7 @@ useEffect(()=>{
                     <CTableHeaderCell className="text-center">
                       <CIcon icon={cilPeople} />
                     </CTableHeaderCell>
-                    <CTableHeaderCell>User</CTableHeaderCell>
+                    <CTableHeaderCell className="text-center">User</CTableHeaderCell>
                     <CTableHeaderCell className="text-center">Txn Id</CTableHeaderCell>
                     <CTableHeaderCell className="text-center">Terminl Id</CTableHeaderCell>
                     <CTableHeaderCell className="text-center">Card Number</CTableHeaderCell>
