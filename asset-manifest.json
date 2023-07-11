@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/paytab-task/static/css/main.3201846e.css",
-    "main.js": "/paytab-task/static/js/main.cbf4967a.js",
-    "static/js/23.093e72d9.chunk.js": "/paytab-task/static/js/23.093e72d9.chunk.js",
+    "main.js": "/paytab-task/static/js/main.b313eaf6.js",
+    "static/js/126.c7901fc1.chunk.js": "/paytab-task/static/js/126.c7901fc1.chunk.js",
     "static/js/496.ed362a88.chunk.js": "/paytab-task/static/js/496.ed362a88.chunk.js",
-    "static/js/747.684e8016.chunk.js": "/paytab-task/static/js/747.684e8016.chunk.js",
+    "static/js/72.20680e93.chunk.js": "/paytab-task/static/js/72.20680e93.chunk.js",
     "static/media/8.jpg": "/paytab-task/static/media/8.35ee8919ea545620a475.jpg",
     "static/media/1.jpg": "/paytab-task/static/media/1.34eedf58c0876517e858.jpg",
     "static/media/4.jpg": "/paytab-task/static/media/4.3ddf28ab435770c6d69f.jpg",
@@ -14,13 +14,13 @@
     "static/media/6.jpg": "/paytab-task/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/paytab-task/index.html",
     "main.3201846e.css.map": "/paytab-task/static/css/main.3201846e.css.map",
-    "main.cbf4967a.js.map": "/paytab-task/static/js/main.cbf4967a.js.map",
-    "23.093e72d9.chunk.js.map": "/paytab-task/static/js/23.093e72d9.chunk.js.map",
+    "main.b313eaf6.js.map": "/paytab-task/static/js/main.b313eaf6.js.map",
+    "126.c7901fc1.chunk.js.map": "/paytab-task/static/js/126.c7901fc1.chunk.js.map",
     "496.ed362a88.chunk.js.map": "/paytab-task/static/js/496.ed362a88.chunk.js.map",
-    "747.684e8016.chunk.js.map": "/paytab-task/static/js/747.684e8016.chunk.js.map"
+    "72.20680e93.chunk.js.map": "/paytab-task/static/js/72.20680e93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3201846e.css",
-    "static/js/main.cbf4967a.js"
+    "static/js/main.b313eaf6.js"
   ]
 }
