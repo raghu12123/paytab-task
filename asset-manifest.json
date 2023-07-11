@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/paytab-task/static/css/main.0f688617.css",
-    "main.js": "/paytab-task/static/js/main.451ca8df.js",
-    "static/js/787.6cf12464.chunk.js": "/paytab-task/static/js/787.6cf12464.chunk.js",
+    "main.css": "/paytab-task/static/css/main.3201846e.css",
+    "main.js": "/paytab-task/static/js/main.2a1834f2.js",
+    "static/js/23.47de1a37.chunk.js": "/paytab-task/static/js/23.47de1a37.chunk.js",
+    "static/js/496.ed362a88.chunk.js": "/paytab-task/static/js/496.ed362a88.chunk.js",
+    "static/js/747.684e8016.chunk.js": "/paytab-task/static/js/747.684e8016.chunk.js",
+    "static/media/8.jpg": "/paytab-task/static/media/8.35ee8919ea545620a475.jpg",
+    "static/media/1.jpg": "/paytab-task/static/media/1.34eedf58c0876517e858.jpg",
+    "static/media/4.jpg": "/paytab-task/static/media/4.3ddf28ab435770c6d69f.jpg",
+    "static/media/3.jpg": "/paytab-task/static/media/3.07e357f51e1b86d9e741.jpg",
+    "static/media/2.jpg": "/paytab-task/static/media/2.0c06e43dc16bee6cdfed.jpg",
+    "static/media/5.jpg": "/paytab-task/static/media/5.3e55ee5f667d94054da3.jpg",
+    "static/media/6.jpg": "/paytab-task/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/paytab-task/index.html",
-    "main.0f688617.css.map": "/paytab-task/static/css/main.0f688617.css.map",
-    "main.451ca8df.js.map": "/paytab-task/static/js/main.451ca8df.js.map",
-    "787.6cf12464.chunk.js.map": "/paytab-task/static/js/787.6cf12464.chunk.js.map"
+    "main.3201846e.css.map": "/paytab-task/static/css/main.3201846e.css.map",
+    "main.2a1834f2.js.map": "/paytab-task/static/js/main.2a1834f2.js.map",
+    "23.47de1a37.chunk.js.map": "/paytab-task/static/js/23.47de1a37.chunk.js.map",
+    "496.ed362a88.chunk.js.map": "/paytab-task/static/js/496.ed362a88.chunk.js.map",
+    "747.684e8016.chunk.js.map": "/paytab-task/static/js/747.684e8016.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f688617.css",
-    "static/js/main.451ca8df.js"
+    "static/css/main.3201846e.css",
+    "static/js/main.2a1834f2.js"
   ]
 }
